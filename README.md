@@ -5,7 +5,7 @@
 ![]()  
   
 
-### <div align="center">I'm Faham, a full-stack  developer 👨‍💻 🚀</div>  
+## <div align="center">I'm Faham, a full-stack  developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [SeCode](https://github.com/iamfaham/secode)  
