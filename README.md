@@ -17,10 +17,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQGxK5TyjRPOYA/profile-displayphoto-shrink_400_400/0/1696706060536?e=1727308800&v=beta&t=1S20Z6m04V6q8yOAsTCLnQ-AxgQKjFAt6coyayIqdaA"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
@@ -88,8 +84,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/iamfaham/iamfaham/output/snake.svg" alt="Snake animation" />
 
 ###
 
