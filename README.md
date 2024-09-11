@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on **SeCode: a VS code extension for analyzing security flaws**
+- 🔭 I’m currently working on **EncypherX: a password management tool**
 
 - 💬 Ask me about **Next.js, React, JavaScript**
 
