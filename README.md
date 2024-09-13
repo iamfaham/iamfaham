@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **EncypherX: a password management tool**
 
-- 💬 Ask me about **Next.js, React, JavaScript**
+- 💬 Ask me about **Next.js, React, TypeScript, JavaScript**
 
 - 📫 Reach me at **iamfaham5@gmail.com**
 
