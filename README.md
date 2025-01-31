@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently studying **Artificial Intelligence** at the University at Buffalo
+- 🔭 I’m currently pursuing **MS in Artificial Intelligence** at the University at Buffalo
 
 - 💬 Ask me about **Next.js, React, TypeScript, JavaScript**
 
