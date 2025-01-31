@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working on **EncypherX: a password management tool**
+- 🔭 I’m currently studying **Artificial Intelligence** at the University at Buffalo
 
 - 💬 Ask me about **Next.js, React, TypeScript, JavaScript**
 
