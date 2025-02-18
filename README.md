@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently pursuing **MS in Artificial Intelligence** at the University at Buffalo
 
-- 💬 Ask me about **Next.js, React, TypeScript, JavaScript**
+- 💬 Ask me about **Next.js, React, TypeScript, JavaScript, Python**
 
 - 📫 Reach me at **iamfaham5@gmail.com**
 
