@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋! My name is Faham and I'm currently a <br>Full Stack Developer and <br>an AI / ML Developer in making.</h1>
+<<h1 align="center">Hi 👋! My name is Faham and I'm a <br>Full Stack Developer currently and <br>an AI / ML Developer in making.</h1>
 
 ### 💫 About Me:
 
