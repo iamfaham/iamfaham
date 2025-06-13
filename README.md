@@ -2,9 +2,9 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently pursuing **MS in Artificial Intelligence** at the University at Buffalo
+- 🔭 Currently a graduate student of **Artificial Intelligence** at the University at Buffalo
 
-- 💬 Ask me about **Next.js, React, TypeScript, JavaScript, Python**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Generative-AI, Python**
 
 - 📫 Reach me at **iamfaham5@gmail.com**
 
