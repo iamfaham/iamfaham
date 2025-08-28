@@ -4,7 +4,7 @@
 
 - 🔭 Currently a graduate student of **Artificial Intelligence** at the University at Buffalo
 
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Generative-AI, Python**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Generative-AI, Python**
 
 - 📫 Reach me at **iamfaham5@gmail.com**
 
