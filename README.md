@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I am Faham, an AI / ML Developer in making.</h1>
+<h1 align="center">Hi! I am Faham, an AI/ML Developer.</h1>
 
 ### 💫 About Me:
 
