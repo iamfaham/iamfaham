@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 
-- 🔭 Currently a graduate student of **Artificial Intelligence** at the University at Buffalo
+- 🔭 A grad student of **Artificial Intelligence** at the University at Buffalo
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Generative-AI, Python**
 
