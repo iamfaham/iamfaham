@@ -6,7 +6,7 @@
 - Ask me about **AI, ML, deep learning, RL, generative AI, and Python**
 - **Email:** iamfaham5@gmail.com
 
-> *Split brain: half “one more ablation,” half “one more coffee.” Usually debugging something that worked five minutes ago.*
+> _Usually debugging something that worked five minutes ago._
 
 ###
 
@@ -27,7 +27,7 @@
 
 ### Recent writing
 
-*Latest on [dev.to](https://dev.to/iamfaham) — also on [Medium](https://medium.com/@iamfaham).*
+_Latest on [dev.to](https://dev.to/iamfaham) — also on [Medium](https://medium.com/@iamfaham)._
 
 - [LLM Steering: From Prompting Tricks to Activation Control](https://dev.to/iamfaham/llm-steering-from-prompting-tricks-to-activation-control-33d0) · Feb 2026 · 6 min read
 - [Fine-Tuning LLMs: LoRA, Quantization, and Distillation Simplified](https://dev.to/iamfaham/fine-tuning-llms-lora-quantization-and-distillation-simplified-12nf) · Nov 2025 · 5 min read
